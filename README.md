@@ -84,7 +84,6 @@ Stocks reordered by hierarchical clustering to reveal sector groupings. Clear co
 
 | Portfolio | Annual Return | Annual Std | Sharpe Ratio |
 |---|---|---|---|
-| Min Variance | ~5% | ~4.5% | — |
 | Max Sharpe | 12.71% | 9.92% | 0.77 |
 
 ### Optimal Portfolio Weights (Top 10)
